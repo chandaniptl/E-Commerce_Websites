@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee",
+    "image": "images/coffee.jpg",
+    "price": "$5.45",
+    "unit": "1 item",
+    "rating": 4.5,
+    "discount": "30%",
+    "quantity": 3
+  },
+  {
+    "id": 2,
+    "name": "Coldrinks",
+    "image": "images/coldrinks.jpg",
+    "price": "$2.50",
+    "unit": "2 items",
+    "rating": 4.2,
+    "discount": "20%",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Milk Pack",
+    "image": "images/milk.jpg",
+    "price": "$3.80",
+    "unit": "1L",
+    "rating": 4.3,
+    "discount": null,
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "Orange Juice",
+    "image": "images/juice.jpg",
+    "price": "$4.99",
+    "unit": "1L",
+    "rating": 4.6,
+    "discount": "10%",
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "name": "Green Apples",
+    "image": "images/greenapple.avif",
+    "price": "$4.50",
+    "unit": "1 Kg",
+    "rating": 4.4,
+    "discount": null,
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "name": "Bread",
+    "image": "images/bread.jpg",
+    "price": "$3.25",
+    "unit": "1 Loaf",
+    "rating": 4.1,
+    "discount": null,
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "name": "Croissant",
+    "image": "images/croissant.jpg",
+    "price": "$5.60",
+    "unit": "1 Kg",
+    "rating": 4.0,
+    "discount": "15%",
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "name": "Peanut Butter",
+    "image": "images/penutbutter.jpg",
+    "price": "$7.00",
+    "unit": "500g",
+    "rating": 4.7,
+    "discount": null,
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "name": "Honey",
+    "image": "images/honey.jpg",
+    "price": "$5.75",
+    "unit": "1 Dozen",
+    "rating": 4.8,
+    "discount": null,
+    "quantity": 1
+  },
+  {
+    "id": 10,
+    "name": "Mayonnaise",
+    "image": "images/Mayonnaise.jpg",
+    "price": "$3.80",
+    "unit": "250g",
+    "rating": 4.6,
+    "discount": "25%",
+    "quantity": 1
+  },
+  {
+    "id": 11,
+    "name": "Chily Flex",
+    "image": "images/chilyflex.webp",
+    "price": "$4.25",
+    "unit": "250g",
+    "rating": 4.3,
+    "discount": null,
+    "quantity": 1
+  },
+  {
+    "id": 12,
+    "name": "Garlic Souce",
+    "image": "images/garlicsouce.webp",
+    "price": "$5.50",
+    "unit": "300g",
+    "rating": 4.6,
+    "discount": "10%",
+    "quantity": 1
+  },
+  {
+    "id": 13,
+    "name": "Cheese",
+    "image": "images/cheese.webp",
+    "price": "$4.20",
+    "unit": "1 Kg",
+    "rating": 4.5,
+    "discount": null,
+    "quantity": 1
+  },
+  {
+    "id": 14,
+    "name": "Avocado",
+    "image": "images/avocado.jpg",
+    "price": "$3.30",
+    "unit": "1L",
+    "rating": 4.2,
+    "discount": "5%",
+    "quantity": 1
+  },
+  {
+    "id": 15,
+    "name": "Green Chilli Souce",
+    "image": "images/greenchilly.webp",
+    "price": "$2.90",
+    "unit": "70g",
+    "rating": 4.7,
+    "discount": null,
+    "quantity": 1
+  },
+  {
+    "id": 16,
+    "name": "Aero Chocolate",
+    "image": "images/aero.jpg",
+    "price": "$3.20",
+    "unit": "1 Kg",
+    "rating": 4.4,
+    "discount": null,
+    "quantity": 1
+  },
+  {
+    "id": 17,
+    "name": "Silk Chocolate",
+    "image": "images/silk.jpg",
+    "price": "$2.75",
+    "unit": "500g",
+    "rating": 4.1,
+    "discount": "15%",
+    "quantity": 1
+  },
+  {
+    "id": 18,
+    "name": "Strawberry",
+    "image": "images/strawberry.jpg",
+    "price": "$3.10",
+    "unit": "500ml",
+    "rating": 4.3,
+    "discount": null,
+    "quantity": 1
+  },
+  {
+    "id": 19,
+    "name": "BlueBerry",
+    "image": "images/blueberry.webp",
+    "price": "$2.80",
+    "unit": "1 Kg",
+    "rating": 4.2,
+    "discount": "10%",
+    "quantity": 1
+  },
+  {
+    "id": 20,
+    "name": "Nuts",
+    "image": "images/nuts.webp",
+    "price": "$4.75",
+    "unit": "200g",
+    "rating": 4.9,
+    "discount": null,
+    "quantity": 1
+  }
+]
